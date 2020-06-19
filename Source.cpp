@@ -3,6 +3,7 @@
 #include<conio.h>
 #include<windows.h>
 #pragma warning(disable:4996)
+//some changes
 void gotoxy(int x, int y)
 {
 	COORD coord;
